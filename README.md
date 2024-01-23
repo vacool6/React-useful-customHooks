@@ -1,10 +1,10 @@
 
-# Custom Hooks in React: Unlocking the Power of Reusability
+# Custom Hooks in React: Unlock the Power of Reusability
 React, a popular JavaScript library for building user interfaces, offers a wide range of tools and features to streamline development. One such feature is custom hooks, which enable developers to encapsulate and reuse logic across components. This README will delve into the advantages of using custom hooks in your React applications and provide guidance on creating and using them effectively.
 
  
 ## Advantages of Using Custom Hooks
-Custom hooks offer several key advantages that can significantly improve the maintainability, readability, and reusability of your React code
+Custom hooks offer several key advantages that can significantly improve the maintainability, readability, and reusability of your React code.
 
 ## How to Create and Use Custom Hooks
 
